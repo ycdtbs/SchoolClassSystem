@@ -1,5 +1,3 @@
-# SchoolClassSystem
-小型课表管理系统
 <h1>课表管理系统，主要服务于中小型学校的课表设置，以及小型的教师管理</h1>
 <h2>主要功能如下</h2>
 <h3>1.登陆系统</h3>
@@ -12,7 +10,7 @@
 <p>4.对科目信息进行增删改查</p><br>
 <p>5.设置课程表</p>
 <h4>登陆系统截图</h4>   
-![avatar](https://chengpicture.oss-cn-beijing.aliyuncs.com/%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E8%AF%BE%E8%A1%A8%E8%AE%BE%E7%BD%AE.gif?Expires=1560262075&OSSAccessKeyId=TMP.AgHIicUWXck_eooyduLROdzSWw_nRyrQhFADmIisdRvFBSsdZtXgidw4McpDAAAwLAIUcPte0A4bqdeN0OkFt_TH7yIZs8ACFH2OoO9UvhGPDC6CMeqwgWtJ1ujl&Signature=7F360EEurUKQaJqAjNeOiuyl10U%3D)  
+![Markdown](https://chengpicture.oss-cn-beijing.aliyuncs.com/%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E8%AF%BE%E8%A1%A8%E8%AE%BE%E7%BD%AE.gif?Expires=1560262075&OSSAccessKeyId=TMP.AgHIicUWXck_eooyduLROdzSWw_nRyrQhFADmIisdRvFBSsdZtXgidw4McpDAAAwLAIUcPte0A4bqdeN0OkFt_TH7yIZs8ACFH2OoO9UvhGPDC6CMeqwgWtJ1ujl&Signature=7F360EEurUKQaJqAjNeOiuyl10U%3D)  
 <p>使用说明：登陆界面完成对系统登录的功能同时对登陆用户的权限进行判断，以到达不同的用户界面</p>
 <h4>管理员界面以及操作演示</h4>
 ![avatar](https://chengpicture.oss-cn-beijing.aliyuncs.com/%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E7%AE%A1%E7%90%86%E5%91%98%E6%BC%94%E7%A4%BA.gif?Expires=1560262948&OSSAccessKeyId=TMP.AgHIicUWXck_eooyduLROdzSWw_nRyrQhFADmIisdRvFBSsdZtXgidw4McpDAAAwLAIUcPte0A4bqdeN0OkFt_TH7yIZs8ACFH2OoO9UvhGPDC6CMeqwgWtJ1ujl&Signature=%2Fq9LWKIm7Cq%2BK9b0g6JHfHLUFYE%3D)  
