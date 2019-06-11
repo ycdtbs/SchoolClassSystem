@@ -10,7 +10,7 @@
 <p>4.对科目信息进行增删改查</p><br>
 <p>5.设置课程表</p>
 <h4>登陆系统截图</h4>   
-![Markdown](https://chengpicture.oss-cn-beijing.aliyuncs.com/%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E8%AF%BE%E8%A1%A8%E8%AE%BE%E7%BD%AE.gif?Expires=1560266596&OSSAccessKeyId=TMP.AgHIicUWXck_eooyduLROdzSWw_nRyrQhFADmIisdRvFBSsdZtXgidw4McpDAAAwLAIUcPte0A4bqdeN0OkFt_TH7yIZs8ACFH2OoO9UvhGPDC6CMeqwgWtJ1ujl&Signature=dXJ41LfCZN7iTwT5gUqEzpxwT38%3D)
+![11](https://chengpicture.oss-cn-beijing.aliyuncs.com/%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E8%AF%BE%E8%A1%A8%E8%AE%BE%E7%BD%AE.gif?Expires=1560266596&OSSAccessKeyId=TMP.AgHIicUWXck_eooyduLROdzSWw_nRyrQhFADmIisdRvFBSsdZtXgidw4McpDAAAwLAIUcPte0A4bqdeN0OkFt_TH7yIZs8ACFH2OoO9UvhGPDC6CMeqwgWtJ1ujl&Signature=dXJ41LfCZN7iTwT5gUqEzpxwT38%3D)
 <p>使用说明：登陆界面完成对系统登录的功能同时对登陆用户的权限进行判断，以到达不同的用户界面</p>
 <h4>管理员界面以及操作演示</h4>
 ![avatar](https://chengpicture.oss-cn-beijing.aliyuncs.com/%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E7%AE%A1%E7%90%86%E5%91%98%E6%BC%94%E7%A4%BA.gif?Expires=1560262948&OSSAccessKeyId=TMP.AgHIicUWXck_eooyduLROdzSWw_nRyrQhFADmIisdRvFBSsdZtXgidw4McpDAAAwLAIUcPte0A4bqdeN0OkFt_TH7yIZs8ACFH2OoO9UvhGPDC6CMeqwgWtJ1ujl&Signature=%2Fq9LWKIm7Cq%2BK9b0g6JHfHLUFYE%3D)  
@@ -31,4 +31,3 @@
 <p>班级信息数据表：用来存放班级名称，学年</p><br>
 <p>课程信息数据表：用来存放课程表，是本系统最重要的表</p><br>
 <p>学科信息数据表：用来存放学科信息</p><br>
-<img src="http://pptzet0x4.bkt.clouddn.com/IMG_20180427_203732R.jpg">
