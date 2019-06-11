@@ -9,7 +9,7 @@
 <p>3.对班级和年级信息进行增删改查</p><br>
 <p>4.对科目信息进行增删改查</p><br>
 <p>5.设置课程表</p>
-<h4>登陆系统截图</h4>   
+<h4>登陆系统截图</h4>
 ![11](https://chengpicture.oss-cn-beijing.aliyuncs.com/%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E8%AF%BE%E8%A1%A8%E8%AE%BE%E7%BD%AE.gif)
 <p>使用说明：登陆界面完成对系统登录的功能同时对登陆用户的权限进行判断，以到达不同的用户界面</p>
 <h4>管理员界面以及操作演示</h4>
